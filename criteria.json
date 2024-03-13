@@ -1,0 +1,88 @@
+{
+  "assesment": [
+    {
+      "criteria": "Topic and completeness",
+      "grades": {
+        "6": "A well-thought-out implementation of the topic, taking into consideration all components of the task, in a special manner.",
+        "5": "A well-thought-out implementation of the topic, taking into consideration all components of the task, in a special manner.",
+        "4": "Good content with solid analysis and adequate coverage.",
+        "3": "Theme essentially implemented, with only individual components of the task considered.",
+        "2": "Theme essentially implemented, with only individual components of the task considered.",
+        "1": "Theme connection vaguely recognizable, very superficial or one-sided.",
+        "0": "Theme connection is missing."
+      }
+    },
+    {
+      "criteria": "Logic and composition",
+      "grades": {
+        "6": "Structure exceptionally clear and logical, very profound train of thought.",
+        "5": "Logical, coherent structure, thorough train of thought.",
+        "4": "Essentially logical structure, partly a stringing together of individual thoughts.",
+        "3": "Errors in the logical structure / thoughts not presented coherently.",
+        "2": "Some recognition of a logical structure, but with a disjointed train of thought.",
+        "1": "Some recognition of a logical structure, but few thoughts brought to completion.",
+        "0": "Logical structure is missing."
+      }
+    },
+{
+      "criteria": "Expressiveness and comprehensiveness",
+      "grades": {
+        "6": "Very rich and detailed presentation, consistently convincing argumentation.",
+        "5": "Rich and detailed presentation.",
+        "4": "In parts detailed and essentially meaningful.",
+        "3": "Not very detailed, but still meaningful.",
+        "2": "Not very meaningful.",
+        "1": "Hardly meaningful.",
+        "0": "Not meaningful."
+      }
+    },
+{
+      "criteria": "Language mastery",
+      "grades": {
+        "6": "Almost correct language usage, occasional minor deviations from norms that do not affect comprehensibility.",
+        "5": "Several minor deviations from norms that do not significantly affect comprehensibility.",
+        "4": "Isolated deviations from norms that impact comprehensibility.",
+        "3": "Multiple deviations from norms that impair comprehensibility.",
+        "2": "Frequent deviations from norms that restrict comprehensibility.",
+        "1": "Frequent deviations from norms that restrict comprehensibility.",
+        "0": "Language is incomprehensible."
+      }
+    },
+{
+      "criteria": "Complexity",
+      "grades": {
+        "6": "Frequent use of complex sentences and sentence structures.",
+        "5": "Multiple use of complex sentences and sentence structures.",
+        "4": "Complex sentences are rarely used, but simple sentence constructions are employed multiple times.",
+        "3": "Consistently simple yet correct sentence structure, with occasional use of sentence linkages.",
+        "2": "Lack of language complexity, faulty sentence structure, and minimal use of sentence linkages.",
+        "1": "Strongly faulty sentence structure, no sentence linkages.",
+        "0": "Sentence structure not discernible."
+      }
+    },
+{
+      "criteria": "Vocabulary and text linking",
+      "grades": {
+        "6": "Very extensive and versatile vocabulary, along with consistently logical linking of text parts.",
+        "5": "Extensive and flexibly used vocabulary, along with frequently logical linking of text parts.",
+        "4": "Basic vocabulary, and logical text linkages occur partially.",
+        "3": "Limited vocabulary, with text linkages somewhat recognizable.",
+        "2": "Limited vocabulary with occasional incorrect word choice, and no text linkages.",
+        "1": "Strongly limited vocabulary with frequent incorrect word choice, and no text linkages.",
+        "0": "Vocabulary does not correspond to English language usage."
+      }
+    },
+{
+      "criteria": "Language constructs",
+      "grades": {
+        "6": "Confident use of a wide variety of structures.",
+        "5": "Confident use of a range of structures.",
+        "4": "Predominantly correct use of a variety of structures.",
+        "3": "Limited use of structures and partially faulty use.",
+        "2": "Predominantly faulty use of structures.",
+        "1": "Almost consistently faulty use of structures.",
+        "0": "Not in accordance with English language norms."
+      }
+    }
+  ]
+}
